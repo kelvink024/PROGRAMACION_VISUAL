@@ -1,0 +1,22 @@
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\bin\Debug\GUIA.1.exe.config
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\bin\Debug\GUIA.1.exe
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\bin\Debug\GUIA.1.pdb
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.csproj.AssemblyReference.cache
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA._1.Form1.resources
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA._1.Properties.Resources.resources
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.csproj.GenerateResource.cache
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.exe
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.pdb
+C:\Users\kelvi\Desktop\PROGRA VISUAL1\GUIA.1\obj\Debug\GUIA.1.exe.config
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\bin\Debug\GUIA.1.exe.config
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\bin\Debug\GUIA.1.exe
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\bin\Debug\GUIA.1.pdb
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.csproj.AssemblyReference.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.exe.config
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA._1.Form1.resources
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA._1.Properties.Resources.resources
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.csproj.GenerateResource.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.exe
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISUAL STDIO 2022\GUIA.1\obj\Debug\GUIA.1.pdb
